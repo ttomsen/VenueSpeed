@@ -1,0 +1,32 @@
+@"
+# Node
+node_modules/
+.pnpm-store/
+dist/
+build/
+.next/
+
+# .NET
+apps/api/bin/
+apps/api/obj/
+*.user
+*.suo
+
+# Environment files — NEVER COMMIT THESE
+.env
+.env.local
+.env.*.local
+*.env
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# Azure
+local.settings.json
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding utf8

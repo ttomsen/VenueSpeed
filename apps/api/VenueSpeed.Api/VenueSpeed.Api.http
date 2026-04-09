@@ -1,0 +1,6 @@
+@VenueSpeed.Api_HostAddress = http://localhost:5034
+
+GET {{VenueSpeed.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
