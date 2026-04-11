@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="VenueSpeed.Api/VenueSpeed.Api.csproj" />
+  <Project Path="VenueSpeed.Core/VenueSpeed.Core.csproj" />
+  <Project Path="VenueSpeed.Data/VenueSpeed.Data.csproj" />
+  <Project Path="VenueSpeed.Tests/VenueSpeed.Tests.csproj" />
+</Solution>

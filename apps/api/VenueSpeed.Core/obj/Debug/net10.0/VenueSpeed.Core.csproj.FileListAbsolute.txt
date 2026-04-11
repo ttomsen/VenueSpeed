@@ -1,0 +1,13 @@
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\bin\Debug\net10.0\VenueSpeed.Core.deps.json
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\bin\Debug\net10.0\VenueSpeed.Core.dll
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\bin\Debug\net10.0\VenueSpeed.Core.pdb
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.csproj.AssemblyReference.cache
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.AssemblyInfoInputs.cache
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.AssemblyInfo.cs
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.csproj.CoreCompileInputs.cache
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.sourcelink.json
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.dll
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\refint\VenueSpeed.Core.dll
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\VenueSpeed.Core.pdb
+C:\projects\venuespeed\apps\api\VenueSpeed.Core\obj\Debug\net10.0\ref\VenueSpeed.Core.dll

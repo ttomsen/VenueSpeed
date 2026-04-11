@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTyYx3kjexE=",
+  "success": true,
+  "projectFilePath": "C:\\projects\\VenueSpeed\\apps\\api\\VenueSpeed.Core\\VenueSpeed.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyler_j04305d\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
